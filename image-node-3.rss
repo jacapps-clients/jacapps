@@ -11,7 +11,6 @@
 			<link>https://klty.com/movies/route-60-the-biblical-highway-review-a-journey-through-israel</link>
 			<title>"Route 60: The Biblical Highway" Review: A Journey through Israel</title>
 			<pubDate>Sat, 16 Sep 2023 20:43:06 Z</pubDate>
-			<enclosure type="image/jpeg" url="https://cdn.saleminteractivemedia.com/186/content/280301/movie-theater-seats-1000x500.jpg" length="0"/>
 			<image>
 				<url>https://cdn.saleminteractivemedia.com/186/content/280301/movie-theater-seats-1000x500.jpg</url>
 				<title>W3Schools.com</title>
@@ -24,7 +23,11 @@
 			<title>Free Counseling: 972-960-9981</title>
 			<description>&lt;p>&lt;span style="font-size: 11pt;">The 94.9 KLTY family knows that in the days and weeks ahead, many families and first responders will be trying to heal from the events in Allen. That's why we've created a special fund to offer free counseling services through ChristianWorks, call&amp;nbsp;&amp;nbsp;&lt;a href="tel:9729609981">&lt;strong>972-960-9981&lt;/strong>&lt;/a>.&lt;/span>&lt;/p></description>
 			<pubDate>Wed, 14 Jun 2023 19:19:00 Z</pubDate>
-			<enclosure type="image/jpeg" url="https://cdn.saleminteractivemedia.com/235/content/275167/christianworks-free-counseling-880x587.jpg" length="0"/>
+			<image>
+				<url>https://cdn.saleminteractivemedia.com/186/content/280301/movie-theater-seats-1000x500.jpg</url>
+				<title>W3Schools.com</title>
+				<link>https://www.w3schools.com</link>
+			</image>
 		</item>
 		<item>
 			<guid isPermaLink="false">https://klty.com/special-features/289507</guid>
@@ -32,7 +35,11 @@
 			<title>ABC June 2024 Food Drive</title>
 			<description>&lt;p>&lt;span style="font-size: 11.5pt;">&lt;strong>Did you know that over 4 million people in Texas face hunger?&lt;/strong>&amp;nbsp; ABC Home &amp;amp; Commercial Services is partnering with 94.9&amp;nbsp;KLTY&amp;nbsp;to host a food drive for North Texas families in need.&amp;nbsp;During the month of&amp;nbsp;&lt;strong>June&lt;/strong>, we are&amp;nbsp;collecting canned and non-perishable food items for local food banks. Find out more&amp;nbsp;&lt;strong>&lt;a href="/special-features/abc-june-food-drive">HERE&lt;/a>&lt;/strong>&lt;/span>&lt;/p></description>
 			<pubDate>Fri, 24 May 2024 04:59:00 Z</pubDate>
-			<enclosure type="image/jpg?v=202405171759208308" url="https://cdn.saleminteractivemedia.com/235/content/289507/anteater-advocates-600x600.jpg?v=202405171759208308" length="0"/>
+			<image>
+				<url>https://cdn.saleminteractivemedia.com/186/content/280301/movie-theater-seats-1000x500.jpg</url>
+				<title>W3Schools.com</title>
+				<link>https://www.w3schools.com</link>
+			</image>
 		</item>
 		<item>
 			<guid isPermaLink="false">https://klty.com/movies/286147</guid>
@@ -40,14 +47,22 @@
 			<title>"Ordinary Angels" Review: True Life Story Inspires</title>
 			<description>&lt;p>With an inspiring story and a strong performance from Hilary Swank, &lt;em>Ordinary Angels&lt;/em> is a truly worthwhile film that could &amp;mdash; one hopes &amp;mdash; inspire others to strive to become ordinary angels themselves.&lt;/p></description>
 			<pubDate>Sat, 24 Feb 2024 01:13:47 Z</pubDate>
-			<enclosure type="image/jpg?v=202402240117362252" url="https://cdn.saleminteractivemedia.com/186/content/286147/movie-review-1000x500.jpg?v=202402240117362252" length="0"/>
+			<image>
+				<url>https://cdn.saleminteractivemedia.com/186/content/280301/movie-theater-seats-1000x500.jpg</url>
+				<title>W3Schools.com</title>
+				<link>https://www.w3schools.com</link>
+			</image>
 		</item>
 		<item>
 			<guid isPermaLink="false">https://klty.com/movies/265184</guid>
 			<link>https://klty.com/movies/lifemark-review-pro-life-film-celebrates-the-joy-of-adoption</link>
 			<title>"Lifemark" Review: Pro-Life Film Celebrates the Joy of Adoption</title>
 			<pubDate>Fri, 23 Sep 2022 01:26:37 Z</pubDate>
-			<enclosure type="image/jpeg" url="https://cdn.saleminteractivemedia.com/186/content/265184/1000x500-fam5.jpg" length="0"/>
+			<image>
+				<url>https://cdn.saleminteractivemedia.com/186/content/280301/movie-theater-seats-1000x500.jpg</url>
+				<title>W3Schools.com</title>
+				<link>https://www.w3schools.com</link>
+			</image>
 		</item>
 	</channel>
 </rss>
